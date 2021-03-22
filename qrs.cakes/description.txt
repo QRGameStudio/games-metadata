@@ -1,0 +1,1 @@
+Your task is simple. Swap the strawberry cake on the left with the chocolate cake on the right. The only problem is that you can move only with the most top layer and you can place each layer on the top of the layer, which is not smaller than the current layer.
